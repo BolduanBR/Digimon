@@ -1,7 +1,7 @@
 @media (max-width: 768px){
    
     main::after{
-    background: linear-gradient(98deg, #000000e0 45%, rgba(0, 0, 0, 0) 70%) no-repeat;
+    background: linear-gradient(98deg, #00000000 45%, rgba(0, 0, 0, 0) 70%) no-repeat;
     width: 100vw;
    }
 
